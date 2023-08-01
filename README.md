@@ -1,0 +1,1 @@
+Testing the usage of sending SIGINT event to simple node process listener
